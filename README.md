@@ -4,14 +4,23 @@
 ︵﹒⊹ ๑ ︵︵ ๑ ⊹﹒︵︵﹒⊹ ๑ ︵︵ ๑ ⊹﹒︵︵﹒⊹ ๑ ︵︵ ๑ ⊹﹒︵︵﹒⊹ ๑ ︵︵ ๑ ⊹﹒︵︵﹒⊹ ๑ ︵︵ ๑ ⊹﹒︵︵﹒⊹ ๑ ︵︵ ๑ ⊹﹒︵
 .
 
-୨୧ ⋆˚࿔ XAO ! SAMMY 
 
-
-.
   
- ⋆˚࿔ WELCOME !
+୭ ˚.  XAO ! SAMMY 
+|
+ ⤷ important information :
 
-My name is Xao! also known as Sammy for close people ! I hope you leave something on my strawpage or Atabook before leaving !
+✶⋆.˚
+|
+ ⤷ hello! before you try to interact with me / be friend me! please consider that I set my boundries to protect myself and people close to me from getting harmed! please respect those boundires. 
+
+༘⋆✿
+|
+ ⤷ if you support ANY problematic creator / person Please don't interact.
+
+୭ ˚. ᵎᵎ
+|
+ ⤷ if you support or find any interest in any kind of inappropriate contect, including incest (wincest specificly duo to me being part of supernatural fandom!) please don't interact with me. I will not even try to continue conversation with you. 
 
 
 .
