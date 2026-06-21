@@ -18,7 +18,9 @@ check out my Strawpage + Prns page
 
 </div>
 
----
+
+
+
 
 ## DNI 
 
@@ -47,7 +49,9 @@ check out my Strawpage + Prns page
 
 </details>
 
----
+
+
+
 
 ## ✦ Notes
 
