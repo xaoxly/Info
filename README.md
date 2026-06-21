@@ -1,45 +1,47 @@
-<!-- BANNER -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/24/24/e2/2424e2ff4a1524964e09a157202cbd8c.gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/24/24/e2/2424e2ff4a1524964e09a157202cbd8f.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/56/d8/30/56d83038787d9ccf6a79bcd3c06aa9bc.jpg" width="320" />
 </p>
 
 ---
 
-<!-- INTERLUDE IMAGE -->
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/56/d8/30/56d83038787d9ccf6a79bcd3c06aa9bc.jpg" width="70%" />
+  <img src="https://blinkies.cafe/b/display/0038-exitbutton2.gif" />
+  <img src="https://blinkies.cafe/b/display/0232-mbavblooddrivenurse.gif" />
+  <img src="https://blinkies.cafe/b/display/0142-virusgender.gif" />
 </p>
 
 ---
 
-<!-- COLLAPSIBLE SECTION -->
+## ✦ About
+
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Inter, Arial, sans-serif; font-size: 15px; line-height: 1.6;">
+
+Welcome to my space.
+
+Everything here is personal, curated, and a little messy in the best way.
+
+</div>
+
+---
+
+## ▼ Expandable Section
+
 <details>
-<summary style="font-size:18px; font-family:ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;">
-  ✦ Click to expand more information ✦
-</summary>
+  <summary>
+    <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Inter, Arial, sans-serif; font-size: 16px; font-weight: 600;">
+      DNI LIST — click to expand
+    </span>
+  </summary>
 
 <br>
 
-<div style="font-family:ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; font-size:15px; line-height:1.6;">
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Inter, Arial, sans-serif; font-size: 14px;">
 
-Welcome to this profile README.
-
-This section expands when clicked and can be used for:
-- personal info
-- projects
-- notes
-- updates
-
-Keep it clean, aesthetic, and structured.
-
-</div>
-</details>
-
----
-
-## DNI LIST
-
-Do Not Interact:
+**User(s):**
 - Vin  
 - Tofu  
 - Emi  
@@ -49,12 +51,16 @@ Do Not Interact:
 - Dottore  
 - Akemi  
 
+</div>
+
+</details>
+
 ---
 
-## blinkies
+## ✦ Notes
 
-<p>
-  <img src="https://blinkies.cafe/b/display/0038-exitbutton2.gif" />
-  <img src="https://blinkies.cafe/b/display/0232-mbavblooddrivenurse.gif" />
-  <img src="https://blinkies.cafe/b/display/0142-virusgender.gif" />
-</p>
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Inter, Arial, sans-serif; font-size: 14px; opacity: 0.9;">
+
+Feel free to explore, but keep things respectful.
+
+</div>
