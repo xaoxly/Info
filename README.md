@@ -3,32 +3,24 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/56/d8/30/56d83038787d9ccf6a79bcd3c06aa9bc.jpg" width="320" />
-</p>
-
----
-
-<p align="center">
   <img src="https://blinkies.cafe/b/display/0038-exitbutton2.gif" />
   <img src="https://blinkies.cafe/b/display/0232-mbavblooddrivenurse.gif" />
   <img src="https://blinkies.cafe/b/display/0142-virusgender.gif" />
 </p>
 
----
-
 ## ✦ About
 
 <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Inter, Arial, sans-serif; font-size: 15px; line-height: 1.6;">
 
-Welcome to my space.
+Welcome I'm xao !  
 
-Everything here is personal, curated, and a little messy in the best way.
+check out my Strawpage + Prns page 
 
 </div>
 
 ---
 
-## ▼ Expandable Section
+## DNI 
 
 <details>
   <summary>
@@ -61,6 +53,6 @@ Everything here is personal, curated, and a little messy in the best way.
 
 <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Inter, Arial, sans-serif; font-size: 14px; opacity: 0.9;">
 
-Feel free to explore, but keep things respectful.
+Have a great day ! !  - THIS IS STILL A WIP!!
 
 </div>
