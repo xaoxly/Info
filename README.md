@@ -2,24 +2,6 @@
   <img src="https://i.pinimg.com/originals/24/24/e2/2424e2ff4a1524964e09a157202cbd8f.gif" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://blinkies.cafe/b/display/0038-exitbutton2.gif" />
-  <img src="https://blinkies.cafe/b/display/0232-mbavblooddrivenurse.gif" />
-  <img src="https://blinkies.cafe/b/display/0142-virusgender.gif" />
-</p>
-
-## ✦ About
-
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Inter, Arial, sans-serif; font-size: 15px; line-height: 1.6;">
-
-Welcome I'm xao !  
-
-check out my Strawpage + Prns page 
-
-</div>
-
-
-
 
 
 ## DNI 
@@ -48,15 +30,3 @@ check out my Strawpage + Prns page
 </div>
 
 </details>
-
-
-
-
-
-## ✦ Notes
-
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Inter, Arial, sans-serif; font-size: 14px; opacity: 0.9;">
-
-Have a great day ! !  - THIS IS STILL A WIP!!
-
-</div>
