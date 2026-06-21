@@ -9,9 +9,7 @@
 ## About
 
 <details>
-  <summary><b>Show More</b></summary>
-
-### DNI LIST
+  <summary><b>DNI LIST</b></summary>
 
 - Vin  
 - Tofu  
