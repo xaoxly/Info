@@ -30,3 +30,9 @@
 </div>
 
 </details>
+
+
+
+Vivi, Akiu, Vox, lusi and jay if you're seeing this, I know you do. Fuck off and get the fuck away from me. it's been a year 
+Grow the fuck up and stop acting like y'all aren't the problem too. and don't stalk me, if you feel like you want to speak with me
+just fucking do it, no need for being creepy
