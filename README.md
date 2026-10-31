@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/24/24/e2/2424e2ff4a1524964e09a157202cbd8f.gif" width="100%" />
+  <img src="[https://i.pinimg.com/originals/24/24/e2/2424e2ff4a1524964e09a157202cbd8f.gif](https://media.discordapp.net/attachments/1564226015436480643/1566088618282455080/image.png?ex=6ae7452f&is=6ae5f3af&hm=a65aa5424288e75fe4ae6b2116776ab8fb7055c61162e1c0a6765ca328252563&=&format=webp&quality=lossless&width=384&height=188)" width="100%" />
 </p>
 
-
+Look at me and my sugoi friends !!!! >__<
 
 ## DNI 
 
